@@ -1,5 +1,5 @@
 # JuniorIS
-###ROR the Presequel
+### ROR the Presequel
 
 This project will be a demonstration of random number generating algorithms through an action, platformer, 2d roguelite.
 
