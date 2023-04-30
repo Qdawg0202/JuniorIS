@@ -1,7 +1,9 @@
 # JuniorIS
-### ROR the Presequel
+### Counting Strike 2
 
-This project will be a demonstration of random number generating algorithms through an action, platformer, 2d roguelite.
+This project is a demonstration of random number generating algorithms through an action, platformer, 2d roguelite.
 
 
-The game will be created through the Unity engine, utilizing C# for scripting the game.
+The game has been created through the Unity engine, utilizing C# for scripting the game.
+
+In order to run the game, unzip the given "Final Build" file and run the Counting Strike 2 exe file. The addition files provided are some scripts and assets required should one decide to load this project through Unity.
